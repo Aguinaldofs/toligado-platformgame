@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Garrafa
+  - EnemyRun
+  - Heart
+  - Red
+  - Green
+  - Blue
+  - Fumaca
+  - ColetavelCanvas
+  - Coletavel1
+  - Coletavel2
+  - Coletavel3
+  - Coletavel4
+  - Coletavel5
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - cenario
+  - player
+  - bola
+  - enemy
+  - mesa
+  - garrafa
+  - portal
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Bola
+    uniqueID: 4150165963
+    locked: 0
+  - name: Vida
+    uniqueID: 2033147583
+    locked: 0
+  - name: Background
+    uniqueID: 4149170895
+    locked: 0
+  - name: Personagem
+    uniqueID: 3977363903
+    locked: 0
